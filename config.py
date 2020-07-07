@@ -2,7 +2,7 @@
 GLOBAL
 Global configuration settings.
 """
-TOKEN = "NzI3OTA1MjQzMjcwMjE3ODEx.XwSaJg.hKp9nR1tjl-K3XmL-NcMKUK9V4k"
+TOKEN = ""
 PREFIX = "!!"
 
 """
