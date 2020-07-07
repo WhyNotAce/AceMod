@@ -60,7 +60,3 @@ Mutes the tagged member for the specified amount of time.
 > history \<member id>
 
 Gets a users punishment history and displays this as an embed.
-
-## Development
-
-This is an early stage of the bot, I plan on giving it some future updates including support for regex in auto-mod, support for other databases etc. If you'd like to contribute feel free to make a PR or issue.
